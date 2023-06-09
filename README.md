@@ -8,8 +8,6 @@
 
 🌠🎉让我们一起探索电影的奇妙世界吧！
 
-![1](https://github.com/crazyZSShuo/4K-Movie-Search/assets/33218762/c3788540-6765-4cb5-ba44-39fd93d8d268)
-![3](https://github.com/crazyZSShuo/4K-Movie-Search/assets/33218762/da84ef1b-ffe0-4b45-9a21-74d12a8b8203)
-![4](https://github.com/crazyZSShuo/4K-Movie-Search/assets/33218762/d568cc14-86ba-471a-a09c-f0699aa58130)
-![5](https://github.com/crazyZSShuo/4K-Movie-Search/assets/33218762/00cfa01c-d154-4d07-90c1-bd69f2b39506)
-![6](https://github.com/crazyZSShuo/4K-Movie-Search/assets/33218762/414aa2d5-3fe6-4fb9-b2fb-f42c4e67d695)
+
+![1](https://github.com/crazyZSShuo/4K-Movie-Search/assets/33218762/9bb8c978-7b10-4588-9514-86a94268a6dd)
+![2](https://github.com/crazyZSShuo/4K-Movie-Search/assets/33218762/8274b972-049e-425d-924a-1f5ce33e3a1e)
